@@ -106,6 +106,14 @@ China University of Geosciences
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7rRW-Y_BdhACq_PFLwT814Y5lp9JH4-gSQ3AsENt3UA"></script>
+<div style="
+    transform: scale(0.7);
+    transform-origin: top left;
+    width: fit-content;
+">
+    <script type="text/javascript" id="mapmyvisitors" 
+        src="//mapmyvisitors.com/map.js?d=Cvrx7pukM6chhmTNVxtAjun9zD7Y-Z7Xr_IC0IA1g84&cl=ffffff&w=a">
+    </script>
+</div>
+
 
