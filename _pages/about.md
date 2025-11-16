@@ -85,7 +85,7 @@ Accepted at **NeurIPS 2025 Main Track**
 </div>
 
 
-- Unlocking Instance Semantic Awareness for Domain Adaptive Semantic Segmentation. Fan Li, Xuan Wang, Min Qi, Zhaoxiang Zhang, Chengming Xu, Yuelei Xu. **ICME 2025**
+- Unlocking Instance Semantic Awareness for Domain Adaptive Semantic Segmentation. **Fan Li**, Xuan Wang, Min Qi, Zhaoxiang Zhang, Chengming Xu, Yuelei Xu. **ICME 2025**
 
 # 🎖 Honors and Awards
 - *2023.04*: 🏆 National Silver Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition 
