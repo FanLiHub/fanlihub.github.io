@@ -106,7 +106,7 @@ China University of Geosciences
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🌍 Visitor Map
-<div style="width: 300px; margin: 0 auto;">
+<div style="width: 30%; margin: 0 auto;">
 
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Cvrx7pukM6chhmTNVxtAjun9zD7Y-Z7Xr_IC0IA1g84&cl=ffffff&w=a"></script>
 
