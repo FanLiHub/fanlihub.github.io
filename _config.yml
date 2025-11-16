@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fan Li (李帆)"
-description              : "School of Artificial Intelligence, Northwestern Polytechnical University"
+# description              : "School of Artificial Intelligence, Northwestern Polytechnical University"
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
