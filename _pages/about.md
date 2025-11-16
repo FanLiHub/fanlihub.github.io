@@ -41,7 +41,7 @@ You can explore my publications on Google Scholar or contact me at lifan.message
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (Spotlight)</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance](https://proceedings.mlr.press/v267/li25co.html)
@@ -55,7 +55,7 @@ Accepted at **ICML 2025** (Spotlight💡)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 (Highlight)</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Images_as_Noisy_Labels_Unleashing_the_Potential_of_the_Diffusion_ICCV_2025_paper.html)
@@ -88,12 +88,17 @@ Accepted at **NeurIPS 2025 Main Track**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04*: 🏆 National Silver Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition 
+- *2022.08*: 🏆 Gold Award (×2), 8th China International “Internet+” Innovation and Entrepreneurship Competition (Shaanxi Provincial Level)
+- *2022.07*: 🏆 First Prize, 17th China Graduate Electronics Design Competition – Special Track (Preliminary Round)
+- *2023.10*: 🏆 Outstanding Graduate Student, Northwestern Polytechnical University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 – Present*, Ph.D. Program in Intelligent Unmanned Systems Science and Technology,
+School of Artificial Intelligence (formerly Institute of Unmanned Systems Technology),
+Northwestern Polytechnical University
+- *2016.09 – 2020.06*, B.E. in Computer Science and Technology,
+China University of Geosciences
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
