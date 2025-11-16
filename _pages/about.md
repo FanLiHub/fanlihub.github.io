@@ -17,14 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there, I am Fan Li (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned Systems Technology Research Institute), Northwestern Polytechnical University (NPU). My research lies at the intersection of computer vision and autonomous unmanned systems, with a focus on robust scene understanding under complex and shifting visual domains. Specifically, my research interests include:
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Generative-driven next-generation perception models
+
+Generalization of unmanned systems in complex and dynamic environments
+
+Robust visual understanding in open-world scenarios
+
+Multi-modal dynamic scene understanding
+
+My research aims to enable robust and reliable visual perception and scene understanding for unmanned systems operating in complex and dynamic environments. This work serves to
+
+I am always open to collaboration and interdisciplinary conversation.
+You can explore my publications on Google Scholar or contact me at lifan.messages@gmail.com.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉 A paper on 3D semantic segmentation was accepted to **NeurIPS 2025 Main Track**.
+- *2025.06*: &nbsp;🎉 A paper on open-world semantic segmentation was accepted to **ICCV 2025** and was awarded as a **Highlight**.
+- *2025.05*: &nbsp;🎉 A paper on domain generalization was accepted to **ICML 2025** and was awarded as a **Spotlight**.
 
 # 📝 Publications 
 
