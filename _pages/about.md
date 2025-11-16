@@ -105,7 +105,7 @@ China University of Geosciences
 # 🌍 Visitor Map
 <div style="width: 40%; margin: 0 auto;">
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=302577&w=300&t=n&d=Cvrx7pukM6chhmTNVxtAjun9zD7Y-Z7Xr_IC0IA1g84&co=e4f4ff&ct=e0cccc"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=2c267c&w=300&t=n&d=Cvrx7pukM6chhmTNVxtAjun9zD7Y-Z7Xr_IC0IA1g84&co=fefefe&ct=e0cccc"></script>
 
 </div>
 
