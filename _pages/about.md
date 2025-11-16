@@ -48,7 +48,7 @@ You can explore my publications on Google Scholar or contact me at lifan.message
 
 **Fan Li**, Xuan Wang, Min Qi, Zhaoxiang Zhang, Yuelei Xu
 
-Accepted at **ICML 2025** (Spotlight💡)
+Accepted at **ICML 2025** (**Spotlight**💡)
 
 [**Project**](https://github.com/FanLiHub/QueryDiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed an agent-query–driven framework for domain-generalized semantic segmentation, in which learnable agent queries act as an interface to inject diffusion-model priors into visual perception networks, thereby improving cross-domain generalization.
@@ -62,7 +62,7 @@ Accepted at **ICML 2025** (Spotlight💡)
 
 **Fan Li**, Xuanbin Wang, Xuan Wang, Zhaoxiang Zhang, Yuelei Xu
 
-Accepted at **ICCV 2025** (Highlight💡)
+Accepted at **ICCV 2025** (**Highlight**💡)
 
 [**Project**](https://github.com/FanLiHub/DEDOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed the first denoising-based learning framework for visual perception, which treats images as noisy labels and acquires semantic knowledge during the iterative denoising process of diffusion models, thereby enhancing fine-grained scene understanding in open-world scenarios for vision–language models.
@@ -89,7 +89,7 @@ Accepted at **NeurIPS 2025 Main Track**
 
 # 🎖 Honors and Awards
 - *2023.04*: 🏆 National Silver Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition 
-- *2022.08*: 🏆 Gold Award (×2), 8th China International “Internet+” Innovation and Entrepreneurship Competition (Shaanxi Provincial Level)
+- *2022.08*: 🏆 Gold Award (×2), The 8th China International “Internet+” Innovation and Entrepreneurship Competition (Shaanxi Provincial Level)
 - *2022.07*: 🏆 First Prize, 17th China Graduate Electronics Design Competition – Special Track (Preliminary Round)
 - *2023.10*: 🏆 Outstanding Graduate Student, Northwestern Polytechnical University
 
