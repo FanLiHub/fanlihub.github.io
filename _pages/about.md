@@ -19,13 +19,14 @@ redirect_from:
 
 Hi there, I am Fan Li (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned Systems Technology Research Institute), Northwestern Polytechnical University (NPU). My research lies at the intersection of computer vision and autonomous unmanned systems, with a focus on robust scene understanding under complex and shifting visual domains. Specifically, my research interests include:
 
-Generative-driven next-generation perception models
+- Generative-driven next-generation perception models
 
-Generalization of unmanned systems in complex and dynamic environments
+- Generalization of unmanned systems in complex and dynamic environments
 
-Robust visual understanding in open-world scenarios
+- Robust visual understanding in open-world scenarios
 
-Multi-modal dynamic scene understanding
+- Multi-modal dynamic scene understanding
+
 
 My research aims to enable robust and reliable visual perception and scene understanding for unmanned systems operating in complex and dynamic environments. This work serves to
 
