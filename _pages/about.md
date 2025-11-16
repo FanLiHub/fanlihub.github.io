@@ -53,6 +53,7 @@ Accepted at **ICML 2025** (Spotlight💡)
 [**Project**](https://github.com/FanLiHub/QueryDiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed an agent-query–driven framework for domain-generalized semantic segmentation, in which learnable agent queries act as an interface to inject diffusion-model priors into visual perception networks, thereby improving cross-domain generalization.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +67,6 @@ Accepted at **ICML 2025** (Spotlight💡)
 [**Project**](https://github.com/FanLiHub/QueryDiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed an agent-query–driven framework for domain-generalized semantic segmentation, in which learnable agent queries act as an interface to inject diffusion-model priors into visual perception networks, thereby improving cross-domain generalization.
 </div>
-
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
