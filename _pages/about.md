@@ -41,10 +41,10 @@ You can explore my publications on Google Scholar or contact me at lifan.message
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 (Spotlight)</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance]](https://proceedings.mlr.press/v267/li25co.html)
+[Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance](https://proceedings.mlr.press/v267/li25co.html)
 
 **Fan Li**, Xuan Wang, Min Qi, Zhaoxiang Zhang, Yuelei Xu
 
@@ -55,19 +55,35 @@ Accepted at **ICML 2025** (Spotlight💡)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025 (Highlight)</div><img src='images/ICCV2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance]](https://proceedings.mlr.press/v267/li25co.html)
+[Images as Noisy Labels: Unleashing the Potential of the Diffusion Model for Open-Vocabulary Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Li_Images_as_Noisy_Labels_Unleashing_the_Potential_of_the_Diffusion_ICCV_2025_paper.html)
 
-**Fan Li**, Xuan Wang, Min Qi, Zhaoxiang Zhang, Yuelei Xu
+**Fan Li**, Xuanbin Wang, Xuan Wang, Zhaoxiang Zhang, Yuelei Xu
 
-Accepted at **ICML 2025** (Spotlight💡)
+Accepted at **ICCV 2025** (Highlight💡)
 
-[**Project**](https://github.com/FanLiHub/QueryDiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Developed an agent-query–driven framework for domain-generalized semantic segmentation, in which learnable agent queries act as an interface to inject diffusion-model priors into visual perception networks, thereby improving cross-domain generalization.
+[**Project**](https://github.com/FanLiHub/DEDOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Developed the first denoising-based learning framework for visual perception, which treats images as noisy labels and acquires semantic knowledge during the iterative denoising process of diffusion models, thereby enhancing fine-grained scene understanding in open-world scenarios for vision–language models.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+No Object Is an Island: Enhancing 3D Semantic Segmentation Generalization with Diffusion Models
+
+**Fan Li**, Xuan Wang, Xuanbin Wang, Zhaoxiang Zhang, Yuelei Xu
+
+Accepted at **NeurIPS 2025 Main Track**
+
+[**Project**]([https://github.com/FanLiHub/DEDOS](https://github.com/FanLiHub/XDiff3D)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Developed the first diffusion-based cross-domain 3D semantic segmentation framework, leveraging pretrained 2D image diffusion priors to guide 3D models in establishing semantic dependencies among point-cloud instances, thereby enabling cross-modal semantic enhancement and enriching point-cloud representations.
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
