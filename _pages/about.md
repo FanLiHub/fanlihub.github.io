@@ -48,8 +48,10 @@ You can explore my publications on Google Scholar or contact me at lifan.message
 
 **Fan Li**, Xuan Wang, Min Qi, Zhaoxiang Zhang, Yuelei Xu
 
+Accepted at **ICML 2025** (Spotlight💡)
+
 [**Project**](https://github.com/FanLiHub/QueryDiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developed an agent-query–driven framework for domain-generalized semantic segmentation, in which learnable agent queries act as an interface to inject diffusion-model priors into visual perception networks, thereby improving cross-domain generalization.
 </div>
 </div>
 
