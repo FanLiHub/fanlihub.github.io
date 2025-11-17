@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Fan Li (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned System Research Institute), Northwestern Polytechnical University (NPU). My research lies at the intersection of computer vision and autonomous unmanned systems, focusing on scene understanding in complex, dynamic, and uncertain environments. 
+Hi there, I am **Fan Li** (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned System Research Institute), Northwestern Polytechnical University (NPU). My research lies at **the intersection of computer vision and autonomous unmanned systems**, focusing on **scene understanding in complex, dynamic, and uncertain environments**. 
 
 Specifically, my research interests include:
 
