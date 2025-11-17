@@ -51,7 +51,7 @@ You can explore my publications on Google Scholar or contact me at lifan.message
 
 Accepted at **ICML 2025** (**Spotlight**💡)
 
-[**Project**](https://github.com/FanLiHub/QueryDiff) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://fanlihub.github.io/QueryDiff/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed an agent-query–driven framework for domain-generalized semantic segmentation, in which learnable agent queries act as an interface to inject diffusion-model priors into visual perception networks, thereby improving cross-domain generalization.
 </div>
 </div>
@@ -65,7 +65,7 @@ Accepted at **ICML 2025** (**Spotlight**💡)
 
 Accepted at **ICCV 2025** (**Highlight**💡)
 
-[**Project**](https://github.com/FanLiHub/DEDOS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://fanlihub.github.io/DEDOS/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed the first denoising-based learning framework for visual perception, which treats images as noisy labels and acquires semantic knowledge during the iterative denoising process of diffusion models, thereby enhancing fine-grained scene understanding in open-world scenarios for vision–language models.
 </div>
 </div>
