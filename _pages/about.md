@@ -82,7 +82,7 @@ No Object Is an Island: Enhancing 3D Semantic Segmentation Generalization with D
 
 Accepted at **NeurIPS 2025 Main Track**
 
-[**Project**]([https://github.com/FanLiHub/DEDOS](https://github.com/FanLiHub/XDiff3D)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://fanlihub.github.io/XDiff3D/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Developed the first diffusion-based cross-domain 3D semantic segmentation framework, leveraging pretrained 2D image diffusion priors to guide 3D models in establishing semantic dependencies among point-cloud instances, thereby enabling cross-modal semantic enhancement and enriching point-cloud representations.
 </div>
 </div>
