@@ -38,7 +38,8 @@ You can explore my publications on Google Scholar or contact me at lifan.message
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉 A paper on 3D semantic segmentation was accepted to **NeurIPS 2025 Main Track**.
-- *2025.06*: &nbsp;🎉 A paper on open-world semantic segmentation was accepted to **ICCV 2025** and was awarded as a **Highlight**.
+- *2025.07*: &nbsp;🎉 Our ICCV 2025 paper was selected as a **Highlight**.
+- *2025.06*: &nbsp;🎉 A paper on open-world semantic segmentation was accepted to **ICCV 2025**.
 - *2025.05*: &nbsp;🎉 A paper on domain generalization was accepted to **ICML 2025** and was awarded as a **Spotlight**.
 - *2025.03*: &nbsp;🎉 A paper on domain adaptation was accepted to ICME 2025.
 
