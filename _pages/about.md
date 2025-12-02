@@ -17,23 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am **Fan Li** (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned System Research Institute), Northwestern Polytechnical University (NPU). My research lies at **the intersection of computer vision and autonomous unmanned systems**, focusing on **scene understanding in complex, dynamic, and uncertain environments**. 
+Hi there, I am **Fan Li** (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned System Research Institute), Northwestern Polytechnical University (NPU). My research focuses on **the intersection of unmanned systems and computer vision**, dedicated to overcoming key visual perception bottlenecks faced by intelligent unmanned platforms operating in real-world, complex, and dynamic environments.
 
 Specifically, my research interests include:
 
-- Generative-driven next-generation perception models
+- Generative-driven next-generation perception paradigms
 
-- Generalization of unmanned systems in complex and dynamic environments
+- Generalization of unmanned systems’ perception in complex and dynamic environments
 
 - Robust visual understanding in open-world scenarios
 
-- Multi-modal dynamic scene understanding
+- Multi-modal 3D scene understanding and representation learning
 
 
-My research aims to enable resilient and trustworthy visual perception and scene understanding for unmanned systems operating in complex and dynamic environments. This work serves to significantly expand their operational envelope, enabling the scaling of autonomous systems from controlled testbeds to the complex and previously inaccessible real world.
+My research aims to enable resilient and trustworthy visual perception and scene understanding for unmanned systems operating in complex, dynamic, and uncertain environments. This work strives to significantly expand the operational envelope of unmanned systems, facilitating their scaling from controlled testbeds to unstructured and real-world scenarios.
 
-I am always open to collaboration and interdisciplinary conversation.
-You can explore my publications on Google Scholar or contact me at lifan.messages@gmail.com.
+I am always open to collaborations and interdisciplinary discussions. If you are interested in exploring potential research avenues or discussing related topics, please contact me at **lifan.messages@gmail.com**.
 
 
 # 🔥 News
