@@ -42,7 +42,7 @@ I am always open to collaborations and interdisciplinary discussions. If you are
 - *2025.05*: &nbsp;🎉 A paper on domain generalization was accepted to **ICML 2025** and was awarded as a **Spotlight**.
 - *2025.03*: &nbsp;🎉 A paper on domain adaptation was accepted to ICME 2025.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/ICML2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
