@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am **Fan Li** (李帆), a Ph.D. candidate at the School of Artificial Intelligence (formerly the Unmanned System Research Institute), Northwestern Polytechnical University (NPU). My research focuses on **the intersection of unmanned systems and computer vision**, dedicated to overcoming key visual perception bottlenecks faced by intelligent unmanned platforms operating in real-world, complex, and dynamic environments.
+Hi there, I am **Fan Li** (李帆), an Assistant Professor in the School of Artificial Intelligence at Shandong University and a member of the General Artificial Intelligence Laboratory (GAI Lab). My research focuses on **the intersection of unmanned systems and computer vision**, dedicated to overcoming key visual perception bottlenecks faced by intelligent unmanned platforms operating in real-world, complex, and dynamic environments.
 
 Specifically, my research interests include:
 
