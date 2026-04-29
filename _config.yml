@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fan Li (李帆)"
-description              : "Assistant Professor"
+# description              : "Assistant Professor"
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fan Li (李帆)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "School of Artificial Intelligence, Shandong University"
+  # bio              : "School of Artificial Intelligence, Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FanLiHub"
+  # github           : "FanLiHub"
   google_plus      :
   keybase          :
   instagram        :
