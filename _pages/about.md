@@ -109,6 +109,9 @@ China University of Geosciences
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=2c267c&w=300&t=tt&d=Cvrx7pukM6chhmTNVxtAjun9zD7Y-Z7Xr_IC0IA1g84&co=fefefe&ct=211f1f"></script>
 
+</div>
+
+<div style="width: 40%; margin: 0 auto;">
 <script id="_wauear">var _wau = _wau || []; _wau.push(["map", "vmb5fz1jxo", "ear", "340", "170", "textbook", "target-orange"]);</script><script async src="//waust.at/m.js"></script>
 </div>
 
