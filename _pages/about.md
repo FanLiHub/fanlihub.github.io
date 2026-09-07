@@ -96,13 +96,6 @@ Accepted at **NeurIPS 2025 Main Track**
 - *2022.07*: 🏆 First Prize, 17th China Graduate Electronics Design Competition – Special Track (Preliminary Round)
 - *2023.10*: 🏆 Outstanding Graduate Student, Northwestern Polytechnical University
 
-# 📖 Educations
-- *2020.09 – 2026.03*, Ph.D. Program in Intelligent Unmanned Systems Science and Technology,
-School of Artificial Intelligence (formerly Institute of Unmanned Systems Technology),
-Northwestern Polytechnical University
-- *2016.09 – 2020.06*, B.E. in Computer Science and Technology,
-China University of Geosciences
-
 
 # 🌍 Visitor Map
 <div style="width: 40%; margin: 0 auto;">
