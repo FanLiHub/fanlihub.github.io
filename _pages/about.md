@@ -94,7 +94,7 @@ Accepted at **NeurIPS 2025 Main Track**
 - *2023.04*: 🏆 National Silver Award, The 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition 
 - *2022.08*: 🏆 Gold Award (×2), The 8th China International “Internet+” Innovation and Entrepreneurship Competition (Shaanxi Provincial Level)
 - *2022.07*: 🏆 First Prize, 17th China Graduate Electronics Design Competition – Special Track (Preliminary Round)
-- *2023.10*: 🏆 Outstanding Graduate Student, Northwestern Polytechnical University
+- *2023.10*: 🏆 Outstanding Graduate Student
 
 
 # 🌍 Visitor Map
